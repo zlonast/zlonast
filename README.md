@@ -1,4 +1,13 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
+
+### I am obsessed with some ideas:
+- Transforming Haskell into a more flexible, typed and compact C++/TypeScript
+- Exporting Haskell to C or JS
+
+### About me
+- 🌱 I’m currently learning Linear logic and Linking headers
+- 📫 How to reach me: grintypes@gmail.com
+- ⚡ Fun fact: Solving formal problems led to linking tasks
 
 <!--
 **zlonast/zlonast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
